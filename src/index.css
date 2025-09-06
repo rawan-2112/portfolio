@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#fdf6ec] text-[#4b2e2e] leading-relaxed;
+    font-family: Gabriola, cursive, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-[#3b2f2f];
+    font-family: Gabriola, cursive, sans-serif;
+  }
+
+  p {
+    font-family: Gabriola, cursive, sans-serif;
+  }
+
+  a {
+    @apply transition-colors duration-300;
+    font-family: Gabriola, cursive, sans-serif;
+  }
+  html {
+  scroll-behavior: smooth;
+}
+
+}
