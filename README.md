@@ -29,9 +29,14 @@ This portfolio highlights my skills, projects, and contact information in a mode
 ###  Clone the repository
 
 git clone https://github.com/rawan-2112/portfolio.git
+
 cd portfolio
+
 Install dependencies
+
 npm install
+
 Run the development server
+
 npm run dev
 
