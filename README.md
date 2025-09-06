@@ -26,29 +26,12 @@ This portfolio highlights my skills, projects, and contact information in a mode
 
 ##  Setup Instructions
 
-### Clone the repository
+###  Clone the repository
 ```bash
 git clone https://github.com/rawan-2112/portfolio.git
 cd portfolio
  Install dependencies
-bash
-نسخ الكود
 npm install
- Run the development server
-bash
-نسخ الكود
+Run the development server
 npm run dev
-Open the app in your browser at: http://localhost:5173
 
- Build for production
-bash
-نسخ الكود
-npm run build
-
-Name: Rawan Alsir
-
-Field: Data Science Student & Web Learner
-
-GitHub: rawan-2112
-
-نسخ الكود
