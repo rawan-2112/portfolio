@@ -30,7 +30,7 @@ This portfolio highlights my skills, projects, and contact information in a mode
 ```bash
 git clone https://github.com/rawan-2112/portfolio.git
 cd portfolio
- Install dependencies
+Install dependencies
 npm install
 Run the development server
 npm run dev
